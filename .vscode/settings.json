@@ -1,5 +1,16 @@
 {
   "cSpell.words": [
-    "ADASYN"
+    "ADASYN",
+    "boxplot",
+    "cmap",
+    "figsize",
+    "imblearn",
+    "linewidths",
+    "matplotlib",
+    "ncols",
+    "nrows",
+    "scipy",
+    "seaborn",
+    "winequality"
   ]
 }
